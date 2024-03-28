@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.shopi{
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+
+.footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 4px;
+}
+
+
+.product img{
+  width: 220px;
+  height: 150px;
+}
+
+.product{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin: 45px;
+  justify-content: space-between;
+}
+
+.product h1{
+  font-size:17px;
+}
